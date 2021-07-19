@@ -469,3 +469,16 @@ TüNDRA (Tübingen aNnotated Data Retrieval Application) is a web application fo
 * Implementation: JavaScript, React (frontend), Java (backend)
 * Credit: Department of General and Computational Linguistics at the University of Tübingen
 * [Access here](https://weblicht.sfs.uni-tuebingen.de/Tundra/)
+
+#### UBIAI
+
+**UBIAI**  Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
+
+UBIAI's full featured [text annotation tool](https://ubiai.tools/) The fastest way to create training data for your NLP model
+
+* Category: manual annotation tool
+* Platform: Web
+* Implementation: Python, JavaScript
+* License: See [terms of use](https://ubiai.tools/terms)
+* Homepage: <https://ubiai.tools/>
+* Contact: admin@ubiai.tools
